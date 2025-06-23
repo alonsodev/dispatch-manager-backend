@@ -1,0 +1,6 @@
+@DispatchManager.API_HostAddress = http://localhost:5231
+
+GET {{DispatchManager.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

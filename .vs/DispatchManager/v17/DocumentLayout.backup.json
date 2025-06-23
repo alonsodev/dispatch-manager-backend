@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\Navisaf\\DispatchManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA4D00F-1FF6-4183-A391-BBE7DA25F9EC}|DispatchManager.Infrastructure\\DispatchManager.Infrastructure.csproj|e:\\projects\\navisaf\\dispatchmanager\\dispatchmanager.infrastructure\\repositories\\decorators\\cacheinvalidationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA4D00F-1FF6-4183-A391-BBE7DA25F9EC}|DispatchManager.Infrastructure\\DispatchManager.Infrastructure.csproj|solutionrelative:dispatchmanager.infrastructure\\repositories\\decorators\\cacheinvalidationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA4D00F-1FF6-4183-A391-BBE7DA25F9EC}|DispatchManager.Infrastructure\\DispatchManager.Infrastructure.csproj|e:\\projects\\navisaf\\dispatchmanager\\dispatchmanager.infrastructure\\repositories\\decorators\\cachedcustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA4D00F-1FF6-4183-A391-BBE7DA25F9EC}|DispatchManager.Infrastructure\\DispatchManager.Infrastructure.csproj|solutionrelative:dispatchmanager.infrastructure\\repositories\\decorators\\cachedcustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA4D00F-1FF6-4183-A391-BBE7DA25F9EC}|DispatchManager.Infrastructure\\DispatchManager.Infrastructure.csproj|e:\\projects\\navisaf\\dispatchmanager\\dispatchmanager.infrastructure\\repositories\\decorators\\cachedorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA4D00F-1FF6-4183-A391-BBE7DA25F9EC}|DispatchManager.Infrastructure\\DispatchManager.Infrastructure.csproj|solutionrelative:dispatchmanager.infrastructure\\repositories\\decorators\\cachedorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA4D00F-1FF6-4183-A391-BBE7DA25F9EC}|DispatchManager.Infrastructure\\DispatchManager.Infrastructure.csproj|e:\\projects\\navisaf\\dispatchmanager\\dispatchmanager.infrastructure\\repositories\\decorators\\cachedproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA4D00F-1FF6-4183-A391-BBE7DA25F9EC}|DispatchManager.Infrastructure\\DispatchManager.Infrastructure.csproj|solutionrelative:dispatchmanager.infrastructure\\repositories\\decorators\\cachedproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA4D00F-1FF6-4183-A391-BBE7DA25F9EC}|DispatchManager.Infrastructure\\DispatchManager.Infrastructure.csproj|e:\\projects\\navisaf\\dispatchmanager\\dispatchmanager.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA4D00F-1FF6-4183-A391-BBE7DA25F9EC}|DispatchManager.Infrastructure\\DispatchManager.Infrastructure.csproj|solutionrelative:dispatchmanager.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF5722B-187E-4156-9093-C3327D068B96}|DispatchManager.Application\\DispatchManager.Application.csproj|e:\\projects\\navisaf\\dispatchmanager\\dispatchmanager.application\\services\\cachestrategies\\ordercachestrategy.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF5722B-187E-4156-9093-C3327D068B96}|DispatchManager.Application\\DispatchManager.Application.csproj|solutionrelative:dispatchmanager.application\\services\\cachestrategies\\ordercachestrategy.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CacheInvalidationType.cs",
+              "DocumentMoniker": "E:\\Projects\\Navisaf\\DispatchManager\\DispatchManager.Infrastructure\\Repositories\\Decorators\\CacheInvalidationType.cs",
+              "RelativeDocumentMoniker": "DispatchManager.Infrastructure\\Repositories\\Decorators\\CacheInvalidationType.cs",
+              "ToolTip": "E:\\Projects\\Navisaf\\DispatchManager\\DispatchManager.Infrastructure\\Repositories\\Decorators\\CacheInvalidationType.cs",
+              "RelativeToolTip": "DispatchManager.Infrastructure\\Repositories\\Decorators\\CacheInvalidationType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:21:48.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CachedCustomerRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\Navisaf\\DispatchManager\\DispatchManager.Infrastructure\\Repositories\\Decorators\\CachedCustomerRepository.cs",
+              "RelativeDocumentMoniker": "DispatchManager.Infrastructure\\Repositories\\Decorators\\CachedCustomerRepository.cs",
+              "ToolTip": "E:\\Projects\\Navisaf\\DispatchManager\\DispatchManager.Infrastructure\\Repositories\\Decorators\\CachedCustomerRepository.cs",
+              "RelativeToolTip": "DispatchManager.Infrastructure\\Repositories\\Decorators\\CachedCustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:21:36.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CachedOrderRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\Navisaf\\DispatchManager\\DispatchManager.Infrastructure\\Repositories\\Decorators\\CachedOrderRepository.cs",
+              "RelativeDocumentMoniker": "DispatchManager.Infrastructure\\Repositories\\Decorators\\CachedOrderRepository.cs",
+              "ToolTip": "E:\\Projects\\Navisaf\\DispatchManager\\DispatchManager.Infrastructure\\Repositories\\Decorators\\CachedOrderRepository.cs",
+              "RelativeToolTip": "DispatchManager.Infrastructure\\Repositories\\Decorators\\CachedOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:21:29.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CachedProductRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\Navisaf\\DispatchManager\\DispatchManager.Infrastructure\\Repositories\\Decorators\\CachedProductRepository.cs",
+              "RelativeDocumentMoniker": "DispatchManager.Infrastructure\\Repositories\\Decorators\\CachedProductRepository.cs",
+              "ToolTip": "E:\\Projects\\Navisaf\\DispatchManager\\DispatchManager.Infrastructure\\Repositories\\Decorators\\CachedProductRepository.cs",
+              "RelativeToolTip": "DispatchManager.Infrastructure\\Repositories\\Decorators\\CachedProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:21:12.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\Projects\\Navisaf\\DispatchManager\\DispatchManager.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "DispatchManager.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "E:\\Projects\\Navisaf\\DispatchManager\\DispatchManager.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "DispatchManager.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwE8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:17:46.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderCacheStrategy.cs.cs",
+              "DocumentMoniker": "E:\\Projects\\Navisaf\\DispatchManager\\DispatchManager.Application\\Services\\CacheStrategies\\OrderCacheStrategy.cs.cs",
+              "RelativeDocumentMoniker": "DispatchManager.Application\\Services\\CacheStrategies\\OrderCacheStrategy.cs.cs",
+              "ToolTip": "E:\\Projects\\Navisaf\\DispatchManager\\DispatchManager.Application\\Services\\CacheStrategies\\OrderCacheStrategy.cs.cs",
+              "RelativeToolTip": "DispatchManager.Application\\Services\\CacheStrategies\\OrderCacheStrategy.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:16:00.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
